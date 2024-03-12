@@ -1,0 +1,6 @@
+All the code we will be writing in future will be related to server side(ofc we are doing node). So, it is very
+impotant to learn http modules. We are going to learn every  http method in http module and in future we are going
+to use all methods.
+
+http module allows us to ssetup the webserver 
+LARGE PART OF THE COURSE WILL BE CREATING YOUR OWN SERVER AND SETTIGN UP THE API we will use an abstraction express
