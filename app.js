@@ -13,3 +13,10 @@
 //2) npm init (step by step asks you the questions , press enter to skip)
 //3) npm init -y (everything default) make package.json file automatically 
 //some packages also require additional dependency that will be installed automatically. But, in package.json file we will get to see only dependencies which we have installed to use.
+
+//we can install package as devloper dependencies also in package.json files.
+//command-  npm i nodemon (--save-dev or -D)
+
+// we can add scripts to package.json and   instead of using node app.js we can directly use node start
+
+// to uninstall package command is - npm uninstall packageName
